@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="900" src="https://github.com/satyam131/Satyam131/blob/main/ezgif.com-video-to-gif.gif">
 
 
 <h1 align="center">Hi 👋, I'm Satyam Kumar Prajapati</h1>
