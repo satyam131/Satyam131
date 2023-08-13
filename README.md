@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam131&label=Profile%20views&color=0e75b6&style=flat" alt="satyam131" /> </p>
 
-<a href="https://satyamprajapati13.netlify.app/"><h4>Portfolio</h4></a>
 
 - 🌱 I’m currently learning **Java frameworks**
 
@@ -21,6 +20,7 @@
 - 📫 How to reach me **satyamkumarprajapati1316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://satyamprajapati13.netlify.app/"><h4>Portfolio</h4></a>
 <p align="left">
 <a href="https://www.linkedin.com/in/satyam-kumar-prajapati-0ab8711a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kumar prajapati" height="30" width="40" /></a>
 <a href="https://instagram.com/satyam._prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam._prajapati" height="30" width="40" /></a>
