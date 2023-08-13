@@ -20,6 +20,7 @@
 - 📫 How to reach me **satyamkumarprajapati1316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+</br>
 Portfolio : https://satyamprajapati13.netlify.app/
 <p align="left">
 <a href="https://www.linkedin.com/in/satyam-kumar-prajapati-0ab8711a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kumar prajapati" height="30" width="40" /></a>
